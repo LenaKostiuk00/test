@@ -10,3 +10,4 @@ lst.insert(3,"comedy")
 print(lst)
 lst.pop(0)
 lst.remove("world")
+
